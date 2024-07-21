@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 313ad0ef31f75b84f9f31c0528802fdd
+labels:
+- Character
+- Male
+- Man
+timeCreated: 1483632968
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79870
+  packageName: 'Character Pack: Free Sample'
+  packageVersion: 2.2.0
+  assetPath: Assets/Supercyan Character Pack Free Sample/Prefabs/Base/High Quality/MaleFree1.prefab
+  uploadId: 392358

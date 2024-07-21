@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 16e7451e81164bc4caac73768f16ceb6
+labels:
+- Character
+- Male
+- Man
+- Mobile
+- Movement
+timeCreated: 1483633847
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 79870
+  packageName: 'Character Pack: Free Sample'
+  packageVersion: 2.2.0
+  assetPath: Assets/Supercyan Character Pack Free Sample/Prefabs/Simple Movement/Mobile/MobileMaleFreeSimpleMovement1.prefab
+  uploadId: 392358
